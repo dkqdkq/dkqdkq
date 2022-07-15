@@ -2,7 +2,6 @@
 
 - Im studying : `Python` `Go` `Node.js`
 - You can call me : `DKQ` `Doking`
-- More : [here]("https://dkq.kro.kr") <- Being prepared
 <!--
 **DOKING0800/DOKING0800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
