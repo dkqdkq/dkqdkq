@@ -1,10 +1,4 @@
 # Hi there 👋
-
-- Im studying : `Python` `Nodejs` `HTML`
-- You can call me : `dkq` `Doking`
-<!--
-**DOKING0800/DOKING0800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
